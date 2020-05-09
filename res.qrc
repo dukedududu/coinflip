@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BackButtonSound.wav</file>
+        <file>res/bg_1.jpg</file>
+        <file>res/bg_2.jpg</file>
+        <file>res/bg_3.jpg</file>
+        <file>res/bg_4.jpg</file>
+        <file>res/bg_5.jpg</file>
+        <file>res/bg_6.jpg</file>
+        <file>res/bg_7.jpg</file>
+        <file>res/bg_8.jpg</file>
+        <file>res/bg_9.jpg</file>
+        <file>res/bg_10.jpg</file>
+        <file>res/bg_11.jpg</file>
+        <file>res/bg_12.jpg</file>
+        <file>res/bg_13.jpg</file>
+        <file>res/bg_14.jpg</file>
+        <file>res/bg_15.jpg</file>
+        <file>res/bg_16.jpg</file>
+        <file>res/Coin0001.png</file>
+        <file>res/Coin0002.png</file>
+        <file>res/Coin0003.png</file>
+        <file>res/Coin0004.png</file>
+        <file>res/Coin0005.png</file>
+        <file>res/Coin0006.png</file>
+        <file>res/Coin0007.png</file>
+        <file>res/Coin0008.png</file>
+        <file>res/ConFlipSound.wav</file>
+        <file>res/LevelCompletedDialogBg.png</file>
+        <file>res/LevelIcon.png</file>
+        <file>res/LevelWinSound.wav</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/TapButtonSound.wav</file>
+        <file>res/Title.png</file>
+        <file>res/bg_0.jpg</file>
+        <file>res/BoardNode(1).png</file>
+        <file>res/bgm.wav</file>
+    </qresource>
+</RCC>
